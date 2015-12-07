@@ -34,22 +34,8 @@ def print_symbol(ch, num):
 
 fields = {
     'tm'      : 0,
-    'dn'      : 0,
-    'tw'      : 0,
-    'grp'     : 0,
-    'pre-srh' : 0,
-    'rsrch'   : 0,
-    'preis'   : 0,
-    'tuner'   : 0,
-    'dch-fh'  : 0,
-    'sum'     : 0,
-    'rrwt'    : 0,
-    'trwt'    : 0,
-    'fst'     : 0,
-    'maxs'    : 0,
-    'srch'    : 0,
-    'rsz'     : 0,
-    'dch-get' : 0
+    'tm1'      : 0,
+    'tm2'      : 0
 }
 
 if __name__ == '__main__':
