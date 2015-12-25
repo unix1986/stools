@@ -28,7 +28,7 @@ CPP_FILE_TEMPLATE = '''\
 
 }
 
-~%s::%s() {
+%s::~%s() {
 
 }
 %s
